@@ -1,0 +1,34 @@
+.red{
+    color: red;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+
+  .cck button{
+  border: 1px solid blue;
+  padding: 16px;
+  background-color: green;
+  font: inherit;
+  color: white;
+  cursor: pointer;
+  }
+  
+  .cck button:hover{
+    background-color: lightgreen;
+    color:blue
+  }
+  
+  .cck button.red {
+    background-color: red
+  }
+  .cck button.red:hover{
+    background-color: salmon;
+    color:blue
+  }
+  
+  .cck button.bold{
+    font-weight: bold;
+  }
+  
